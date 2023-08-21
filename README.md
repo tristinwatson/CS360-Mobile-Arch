@@ -1,1 +1,13 @@
-# CS360-Mobile-Arch
+# CS360-Mobile-Arch 8-3 Journal
+
+App Goals/Requirements: Design, create, and developement a functioning inventory application. The inventory app should allow for user login, alert message requests, and a functioning inventory in gridview style.
+
+Necessary Screens: Create User, Login user, alert message, inventory(grid), and grid items. The create user screen allows users to add a user to the login database/check if a user already exists. The login user lets a user login using their preset username and password. The alert message pops up after login and asks users if they would like to recieve inventory notifications. Inventory gridview is for allowing using to view the current inventory in gridview fashion. Lastly, the grid items is for setting up each inventory item with their own information. Since each item stated above was added to the application, I would call the current situation a success.
+
+My approach strategy for coding the inventory app was to code in sections. I first developed the create user screen, then login, next alert message, and lastly the inventory and grid items. This allowed my code to modularized and structurally sound. Using this method in the future will allow for an easy coding endeavour.
+
+To test my code, I used mainly dynamic testing. This means I attempted to launch the application after each screen creation to seen if my application would fail to compile. This process is important because if you find bugs in your code after developing the entire program, you might need to invest a massive amount of time to find the problem. With a modularized code, you can search through items in a structural fashion to find the existing problem.
+
+Overall, the initial design for my inventory application was rather simple. The reason for this is that you can find inventory based applicaitons on nearly every consumer website to reference design-wise. The real struggle came with coding the inventory application. When I first found out that I needed to code the entire application that I designed, I panicked a little. Afterwards, I started formulating ideas in my head on how the process should happen. I decided to go about the process in the way a user would use an application. That means start with a creating the user, then logging in, etc. This was not necessarily innovative, but the process did help me go section to section in my coding adventure to create the inventory app. 
+
+With that being said, I felt that I was quite successful in developing an application which felt structurally and functionally sound. I think each screen transitions to the next in a fashion that a user and developer would be able to understand. 
